@@ -67,12 +67,6 @@ The script will:
 
 ---
 
-## 📈 Sample Output
-
-![Example](./output_example.jpg) *(Add a screenshot here)*
-
----
-
 ## 🛠 Customization
 
 - Modify `hsvVals` to adjust color detection for different dart colors.
