@@ -85,7 +85,7 @@ The script will:
 
 **Padmasahithi Kondeti**  
 Computer Vision Developer | Passionate about real-time detection systems  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+[LinkedIn](https://www.linkedin.com/in/padmasahithikondeti/) | [GitHub](https://github.com/MeeshuNini/)
 
 ---
 
